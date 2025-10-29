@@ -26,7 +26,7 @@ Installation and Setup
 
   Clone the repository
   
-  git clone https://github.com/sumangalagouda/event-api.git
+  git clone https://github.com/sumangalagouda/Basic_Backend.git
   
   
   Navigate to the project directory
