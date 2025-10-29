@@ -26,7 +26,7 @@ Installation and Setup
 
   Clone the repository
   
-  git clone https://github.com/yourusername/event-api.git
+  git clone https://github.com/sumangalagouda/event-api.git
   
   
   Navigate to the project directory
